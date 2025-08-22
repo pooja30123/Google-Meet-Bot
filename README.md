@@ -12,9 +12,6 @@
 ✅ **File Generation** - Creates PDF and text transcripts  
 ✅ **Simple Interface** - Clean Streamlit web UI  
 
-## 🎥 Demo Video
-
-[**👀 Watch Demo Video**](https://youtu.be/NALaPhlwDks)
 
 
 ## 🛠 Quick Setup
