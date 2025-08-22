@@ -19,6 +19,7 @@
 
 ## 🛠 Quick Setup
 
+```
 Clone repository
 git clone https://github.com/pooja30123/Google-Meet-Bot.git
 cd Google-Meet-Bot
@@ -40,7 +41,7 @@ echo "ASSEMBLYAI_API_KEY=your-api-key-here" > .env
 
 Run the app
 streamlit run app.py
-
+```
 
 ## 📁 Project Structure
 
