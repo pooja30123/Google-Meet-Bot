@@ -1,0 +1,9 @@
+assemblyai
+fpdf2
+numpy
+openai-whisper
+selenium
+sounddevice
+soundfile
+streamlit
+webdriver-manager
