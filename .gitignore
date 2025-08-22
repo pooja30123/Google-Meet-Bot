@@ -29,7 +29,7 @@ venv/
 env/
 ENV/
 .venv/
-.env/
+.env
 .ENV/
 meet_bot
 
