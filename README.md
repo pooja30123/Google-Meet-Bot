@@ -2,7 +2,7 @@
 
 **Automate Google Meet attendance, record audio, and generate AI-powered transcriptions**
 
-[![Demo Video](https://img.shields.io/badge/Demo-Watch%20Video-red?style=for-the-badge&logo=youtube)](https://youtu.be/your-demo-video-link)
+[![Demo Video](https://img.shields.io/badge/Demo-Watch%20Video-red?style=for-the-badge&logo=youtube)](https://youtu.be/NALaPhlwDks)
 
 ## 🚀 Features
 
@@ -14,15 +14,14 @@
 
 ## 🎥 Demo Video
 
-[**👀 Watch Demo Video**](https://youtu.be/your-demo-video-link)
+[**👀 Watch Demo Video**](https://youtu.be/NALaPhlwDks)
 
-*Replace `your-demo-video-link` with your actual YouTube/drive link*
 
 ## 🛠 Quick Setup
 
 Clone repository
-git clone https://github.com/yourusername/google-meet-bot.git
-cd google-meet-bot
+git clone https://github.com/pooja30123/Google-Meet-Bot.git
+cd Google-Meet-Bot
 
 Setup virtual environment
 python -m venv venv
@@ -45,6 +44,7 @@ streamlit run app.py
 
 ## 📁 Project Structure
 
+```
 Meet_Bot/
 ├── 📄 app.py # Main Streamlit application
 ├── ⚙️ config.py # Configuration settings
@@ -60,6 +60,7 @@ Meet_Bot/
 ├── 🤖 meet_bot.py # Google Meet automation
 ├── 📝 transcription.py # AI transcription service
 └── 📋 file_generator.py # PDF/text file creation
+```
 
 
 ## 🎯 How It Works
