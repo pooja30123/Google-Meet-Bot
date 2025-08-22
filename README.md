@@ -102,13 +102,6 @@ Meet_Bot/
 - Check audio input levels
 - Test with music/voice playing
 
-## 🏆 Assignment Details
-
-This project was developed for the **AI Intern Assignment** at **Clear Cast AI**.
-
-**Developer:** Pooja Verma  
-**Email:** poojaverma300702@gmail.com  
-**Submission Date:** August 22, 2025  
 
 ## 📄 License
 
